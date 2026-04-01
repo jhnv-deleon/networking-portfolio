@@ -24,11 +24,8 @@ This repository showcases my practical skills in networking and cybersecurity th
 ## Project Categories
 
 #### 1. Network Design & Implementation
-
 #### 2. Network Security 
-
 #### 3. Log Analysis
-
 #### 4. Troubleshooting Scenarios
 
 ### Tools & Technologies
